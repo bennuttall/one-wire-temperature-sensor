@@ -14,7 +14,9 @@ Note: the default is to use GPIO pin 4. See the note below if you need to use an
 
 1. Select the **Interfaces** tab
 
-1. Enable **1-wire**
+1. Enable **1-wire**:
+
+    ![](images/rcgui.png)
 
 Note: using GPIO pin 4 requires no further configuration. If using this pin is not an option, you'll need to amend the following line in `/boot/config.txt`:
 
