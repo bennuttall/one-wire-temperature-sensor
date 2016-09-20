@@ -57,4 +57,4 @@ print(temp)
 
 ## GPIO Zero
 
-There is a plan to add this sensor to the GPIO Zero library. It is expected in v1.3. See [GitHub Issue #93](https://github.com/RPi-Distro/python-gpiozero/issues/93) for updates.
+There is a plan to add this sensor to the GPIO Zero library. See [GitHub Issue #93](https://github.com/RPi-Distro/python-gpiozero/issues/93) for updates.
